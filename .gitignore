@@ -1,0 +1,13 @@
+# Logs
+*.log
+Log.txt
+log.txt
+
+# Temp & Wine files
+*.tmp
+*~
+.directory
+
+# Uninstaller temporary files
+unins*
+uninstall.dll
